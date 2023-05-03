@@ -4,8 +4,8 @@ Jobskee is an open source job board with minimal configuration and relatively sm
 
 Author
 ------
-Elinore Tenorio (elinore.tenorio@gmail.com)  
-Manila, Philippines
+Albert Guerrero (albertguerrero3478@gmail.com)  
+
 
 Stacks used
 -----------

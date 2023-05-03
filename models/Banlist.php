@@ -2,7 +2,7 @@
 /**
  * Jobskee - open source job board
  * 
- * @author      Elinore Tenorio <elinore.tenorio@gmail.com>
+ * @author      Albert Guerrero <albertguerrero3478@gmail.com>
  * @license     MIT
  * @url         http://www.jobskee.com
  * 

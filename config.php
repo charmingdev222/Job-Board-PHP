@@ -2,7 +2,7 @@
 /**
  * Jobskee - open source job board
  *
- * @author      Elinore Tenorio <elinore.tenorio@gmail.com>
+ * @author      Albert Guerrero <albertguerrero3478@gmail.com>
  * @license     MIT
  * @url         http://www.jobskee.com
  */
@@ -34,7 +34,7 @@ $lang = new Translate();
 // APPLICATION SETTINGS
 define('APP_NAME', $lang->t('app|name'));
 define('APP_DESC', $lang->t('app|desc'));
-define('APP_AUTHOR', 'Elinore Tenorio (elinore.tenorio@gmail.com)');
+define('APP_AUTHOR', 'Albert Guerrero (albertguerrero3478@gmail.com)');
 define('APP_MODE', 'development'); // set to 'production' if site is live, affects RedBean not being frozen if not in correct mode
 define('APP_THEME', 'default'); // set to the theme folder name you are using, found in /views directory
 
